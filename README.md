@@ -30,6 +30,14 @@ Then checked the unique values in each column explore. Observed that Data in few
    ![Showing age have mixed of integer as well as character values](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob2-Pic3.png)
 
 
+3. Used the method **print(data.isnull().sum())** to find the count of missing records for each column. I found that there are 6 columns with missing records
+   car                     12576
+   Bar                       107
+   CoffeeHouse               217
+   CarryAway                 151
+   RestaurantLessThan20      130
+   Restaurant20To50          189
 
+![Screenshot shows columns with missing data](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob2-Pic4.png)
 
 
