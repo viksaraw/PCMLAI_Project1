@@ -63,3 +63,13 @@ Solution:
    respectively and changed the column type to int
    ![Screenshots ](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob3-Pic5.png)
    
+## Problem 4
+4. What proportion of the total observations chose to accept the coupon?
+
+Solution :
+To find the proportion of the total observations chose to accept the coupon
+   1. First find the total count.
+   2. Second find the count of passangers who accepted where Y==1
+   3. Then divide the accepted count to the total count
+
+![](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob4-Pic1.png)
