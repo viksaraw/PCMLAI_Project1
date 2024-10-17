@@ -44,8 +44,10 @@ Then checked the unique values in each column explore. Observed that Data in few
 Solution:
 
 1. Drop all the rows with duplicate records
-2. Ignoring missing data in Column "Car" as it shouldn't impact my analysis
-3. For  other columns,  replacing the missing record by **never**. This is because the number of missing records when the 
+   ![Dropping duplicate records fromd data](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob3-Pic1.png)
+   
+3. Ignoring missing data in Column "Car" as it shouldn't impact my analysis
+4. For  other columns,  replacing the missing record by **never**. This is because the number of missing records when the 
    coupon is of  that type is negligible <br><br>
    For e.g the total number of records where Coupon ==  Bar is  xxxxxx   <br>
            the total number of records where Coupon == Bar and Bar isNull =    <br><br>
