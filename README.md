@@ -12,8 +12,8 @@ Solution :
 1. Used the pandas **read_csv** method to read the csv file provided as part of the Project and storing the data in the '**data**' object of type data frame.
 2. Check the size of the dataset using **data.shape** method. It has 12684 rows and 26 columns
 
-![Read csv file and show number of records.](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob1-Pic1.png![image](https://github.com/user-attachments/assets/7671d779-768e-42e4-9c78-04b6cfc73b45)
-)
+![Read csv file and show number of records.](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob1-Pic1.png)
+
 
 
 
