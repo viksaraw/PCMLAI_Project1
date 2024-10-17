@@ -54,4 +54,4 @@ Solution:
    
    the total number of records where Coupon == Bar and Bar isNull = 21
    which is negligible. Similar is the case for other columns. So I will replace all these missing records with nevernk
-   @[Showing number of records with Coupon == Bar and Bar is Null/Bla](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob2-Pic3.png)
+   ![Showing number of records with Coupon == Bar and Bar is Null/Bla](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob2-Pic3.png)
