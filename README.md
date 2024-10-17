@@ -75,7 +75,7 @@ To find the proportion of the total observations chose to accept the coupon
 ![](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob4-Pic1.png)
 
 ## Problem 5. Use a bar plot to visualize the `coupon` column.
-<br>
+
 Solution:
-To create a bar plot to visualize the coupon column, I have first created a data set with coupon count of each type from the data dataset
-![](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic1.png)
+To create a bar plot to visualize the coupon column, I have first created a data set with  count of each coupon type from the data dataset
+![screen shot displays the count for each type of coupon](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic1.png)
