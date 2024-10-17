@@ -65,6 +65,7 @@ Solution:
    
 ## Problem 4
 4. What proportion of the total observations chose to accept the coupon?
+   Ans - 56.75%
 
 Solution :
 To find the proportion of the total observations chose to accept the coupon
