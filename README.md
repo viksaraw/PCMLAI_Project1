@@ -14,6 +14,10 @@ Solution :
 
 ![Read csv file and show number of records.](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob1-Pic1.png)
 
+3. Showing first few rows of the data using the data.head() method
+   ![Screen shot displays first 5 records of the data](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Probl1-Pic2.png)
+ 
+
 
 
 
