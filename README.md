@@ -40,4 +40,12 @@ Then checked the unique values in each column explore. Observed that Data in few
 
 ![Screenshot shows columns with missing data](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob2-Pic4.png)
 
+## Problem 3. Decide what to do about your missing data -- drop, replace, other...
+Solution:
 
+1. Ignoring missing data in Column "Car" as it shouldn't impact my analysis
+2. For all other columns, I am replacing the missing record by never. This is because the number of missing records when the 
+   coupon is of  that type is negligible
+   For e.g the total number of records where Coupon ==  Bar is 
+           the total number of records where Coupon == Bar and Bar isNull =  
+which is negligible. Similar is the case for other columns. So I will replace all these missing records with never
