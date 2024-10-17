@@ -44,8 +44,8 @@ Then checked the unique values in each column explore. Observed that Data in few
 Solution:
 
 1. Ignoring missing data in Column "Car" as it shouldn't impact my analysis
-2. For all other columns, I am replacing the missing record by never. This is because the number of missing records when the 
-   coupon is of  that type is negligible
-   For e.g the total number of records where Coupon ==  Bar is 
+2. For  other columns,  replacing the missing record by **never**. This is because the number of missing records when the 
+   coupon is of  that type is negligible <br>
+   For e.g the total number of records where Coupon ==  Bar is  xxxxxx   <br>
            the total number of records where Coupon == Bar and Bar isNull =  
 which is negligible. Similar is the case for other columns. So I will replace all these missing records with never
