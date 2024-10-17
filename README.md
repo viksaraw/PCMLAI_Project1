@@ -43,8 +43,9 @@ Then checked the unique values in each column explore. Observed that Data in few
 ## Problem 3. Decide what to do about your missing data -- drop, replace, other...
 Solution:
 
-1. Ignoring missing data in Column "Car" as it shouldn't impact my analysis
-2. For  other columns,  replacing the missing record by **never**. This is because the number of missing records when the 
+1. Drop all the rows with duplicate records
+2. Ignoring missing data in Column "Car" as it shouldn't impact my analysis
+3. For  other columns,  replacing the missing record by **never**. This is because the number of missing records when the 
    coupon is of  that type is negligible <br><br>
    For e.g the total number of records where Coupon ==  Bar is  xxxxxx   <br>
            the total number of records where Coupon == Bar and Bar isNull =    <br><br>
