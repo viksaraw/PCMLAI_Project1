@@ -79,3 +79,8 @@ To find the proportion of the total observations chose to accept the coupon
 Solution:
 To create a bar plot to visualize the coupon column, I have first created a data set with  count of each coupon type from the data dataset
 ![screen shot displays the count for each type of coupon](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic1.png)
+
+Then Use the barplot methond from seaborn to create a barchart, showing different colors for each bar by selecting
+hue = 'coupon'
+![Screen shot for barplot code](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic2.png)
+
