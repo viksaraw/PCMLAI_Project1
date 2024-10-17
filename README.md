@@ -7,6 +7,11 @@
 #### 2.project.ipynb
 
 
+
+
+
+
+
 Problem 1. Read in the coupons.csv file.
 Solution : 
 1. Used the pandas **read_csv** method to read the csv file provided as part of the Project and storing the data in the '**data**' object of type data frame.
