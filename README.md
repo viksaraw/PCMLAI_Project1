@@ -18,7 +18,7 @@ Solution :
    ![Screen shot displays first 5 records of the data](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Probl1-Pic2.png)
  
 <br>
-## Problem 2. Investigate the dataset for missing or problamatic data
+## Problem 2. Investigate the dataset for missing or problamatic data.
 Solution:
 1. Used the **data[data.duplicated(keep=False)]** method to find the duplicate records, here in the param I am passing Keep = False to highlight all accurances of duplicate records. Then finding the total nomber of duplicate records by using the shape attribute of the series. Store row count in variable **duplicatesCount**
 
