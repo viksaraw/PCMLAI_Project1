@@ -87,3 +87,7 @@ hue = 'coupon'
 ![Screenshot for barplot text](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic3.png)
 
 ![Screenshot of barplog](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic4.png)
+
+ Histogram for coupon also done by using histplot method from seaborn
+![Screenshot for histogram of coupons](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic5.png)
+
