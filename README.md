@@ -55,3 +55,6 @@ Solution:
    the total number of records where Coupon == Bar and Bar isNull = 21
    which is negligible. Similar is the case for other columns. So I will replace all these missing records with never
    ![Showing number of records with Coupon == Bar and Bar is Null/Bla](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob3-Pic3.png)
+
+   Replacing all the 5 columns with blank records with value = 'never'
+   ![Code showing replacing 5 columns with blank records with value = 'never'](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob3-Pic4.png)
