@@ -63,8 +63,7 @@ Solution:
    respectively and changed the column type to int
    ![Screenshots ](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob3-Pic5.png)
    
-## Problem 4
-4. What proportion of the total observations chose to accept the coupon?
+## Problem 4.  What proportion of the total observations chose to accept the coupon?
    <br> **Ans - 56.75%**
 
 Solution :
@@ -74,3 +73,9 @@ To find the proportion of the total observations chose to accept the coupon
    3. Then divide the accepted count to the total count
 
 ![](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob4-Pic1.png)
+
+## Problem 5. Use a bar plot to visualize the `coupon` column.
+<br>
+Solution:
+To create a bar plot to visualize the coupon column, I have first created a data set with coupon count of each type from the data dataset
+![](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic1.png)
