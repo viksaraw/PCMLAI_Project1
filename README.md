@@ -23,7 +23,11 @@ Solution:
 
  ![Screen shot displays number of duplicate records in the data](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob2-Pic1.png)
 
+2. Used the method **data.Info()** to know the type of the columns.  
+   ![Showing data type for each column](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob2-Pic2.png)
 
+   Then checked the unique values in each column explore. Observed that Data in few column type doesn't align with the type. For e.g. Age should be integer. It has values 50plus and below21
+   @[Showing age have mixed of integer as well as character values](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob2-Pic3.png)
 
 
 
