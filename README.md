@@ -1,7 +1,10 @@
 # Module 5 Project
-## There are two files in this repository
-### 1.Readme.md
-### 2.project.ipynb
+## In this project I am trying to analyze the provided data to check if customer will accept coupons or not 
+
+
+### There are two files in this repository
+#### 1.Readme.md
+#### 2.project.ipynb
 
 
 Problem 1. Read in the coupons.csv file.
