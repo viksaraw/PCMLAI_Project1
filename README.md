@@ -52,5 +52,6 @@ Solution:
    For e.g the total number of records where Coupon ==  Bar is  2010   <br>
    ![Showing number of records with Coupon == Bar](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob3-Pic2.png)
    
-           the total number of records where Coupon == Bar and Bar isNull =    <br><br>
-which is negligible. Similar is the case for other columns. So I will replace all these missing records with never
+   the total number of records where Coupon == Bar and Bar isNull = 21
+   which is negligible. Similar is the case for other columns. So I will replace all these missing records with nevernk
+   @[Showing number of records with Coupon == Bar and Bar is Null/Bla](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob2-Pic3.png)
