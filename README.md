@@ -130,3 +130,6 @@ Solution:
 ![Acceptance Rate for more Than 3 Visits by dividing with the BarCouponCount](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic4.png)
 
 ### Inference : Acceptance rate for less than 3 visit is 12.79% where as Acceptance rate for more than 3 visits = 7.62%. This clearly states that drivers who visit less than 3 times a month are more likely to accept the coupons for bar
+
+## Problem  4. Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others.  Is there a difference?
+
