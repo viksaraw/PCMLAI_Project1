@@ -93,3 +93,6 @@ hue = 'coupon'
 ![Screenshot for histplot data](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic7.png)
 ![Screenshot for histplot](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic8.png)
 
+## Problem 6. Use a histogram to visualize the temperature column.
+Solution : I have used the seaborn histplot method to plot temperatures
+![screenshot for histogram of temperatures](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob6-Pic1.png)
