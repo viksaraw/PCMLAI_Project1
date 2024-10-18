@@ -144,4 +144,4 @@ Solution:
    ![Acceptance Rate for Other drivers](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob10-Pic4.png)
 
 
-
+### Conclusion- Percentage of drivers who goes to bar more than once a month and are over the age of 25 is 14.5% where as other driver percentage is 85.5%. 
