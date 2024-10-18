@@ -145,3 +145,7 @@ Solution:
 
 
 ### Conclusion- Percentage of drivers who goes to bar more than once a month and are over the age of 25 is 14.5% where as other driver percentage is 85.5%. 
+
+## Problem 5. Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
+Solution
+
