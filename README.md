@@ -43,7 +43,7 @@ Then checked the unique values in each column explore. Observed that Data in few
 ## Problem 3. Decide what to do about your missing data -- drop, replace, other...
 Solution:
 
-1. Drop all the rows with duplicate records
+1. Drop all the rows with duplicate records<br>
    ![Dropping duplicate records fromd data](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob3-Pic1.png)
    
 3. Ignoring missing data in Column "Car" as it shouldn't impact my analysis
