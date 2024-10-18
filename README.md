@@ -114,17 +114,18 @@ Screenshot shows all the 3 steps
 
 ## Problem 3. Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.
 Solution:
-1. Find count of passangers who visited bar 3 or fewer times i.e. between 1 to 3 times = **257**
-   ![Count of passangers who visited bar less then 3 times](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic1.png)
-2. Calculate the Acceptance Rate for LessThan 3 Visits by dividing with the BarCouponCount which comes = **12.78%**
-![Acceptance Rate for those who visited bar less than a month](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic2.png)
-3. Find count of passangers who visited bar more than times  = **153**
-![Count of drivers who visited bar more than 3 times](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic3.png)
-4.  Calculate the Acceptance Rate for more Than 3 Visits by dividing with the BarCouponCount which comes = **7.61%**
-![Acceptance Rate for more Than 3 Visits by dividing with the BarCouponCount](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic4.png)
+1. Find count of passangers who visited bar 3 or fewer times i.e. between 1 to 3 times and accepted the coupon
+2. Find count of passangers who visited bar 3 or fewer times i.e. between 1 to 3 times
+3. Divide 1 with 2 to find the acceptance rate who visited bar 3 or fewer times
+![Accepted rate for less than 3 times visitors](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob3-Pic1.png)
+4. Find count of passangers who visited bar more than 3 times and accepted the coupon
+5. Find count of passangers who visited bar more than 3 times
+6. Divide 4 with 5 to find the acceptance rate who visited bar more than 3 times
+![Accepted rate for more than 3 times visitors](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob3-Pic2.png)
 
-### Inference : Acceptance rate for less than 3 visit is 12.79% where as Acceptance rate for more than 3 visits = 7.62%. This clearly states that drivers who visit less than 3 times a month are more likely to accept the coupons for bar
-
+### Comparing these - Clearly the acceptance is higher for drivers who visit bar more than 3 times
+![Compare the acceptance rates](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob3-Pic3.png)
+  
 ## Problem  4. Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others.  Is there a difference?
 Solution:
 1. Find the count of drivers who go to a bar more than once a month and are over the age of 25
