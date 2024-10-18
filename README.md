@@ -102,3 +102,6 @@ Solution : I have used the seaborn histplot method to plot temperatures
 
 <br>Now, we will lead you through an exploration of just the bar related coupons.  
 ## Problem 1. Create a new `DataFrame` that contains just the bar coupons.
+Solution:
+From the data, querying out data where coupon == Bar and putting in new data frame named DataBar
+![screenshot contains code to create a new data frame that contains just the bar coupons](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob7-Pic1.png)
