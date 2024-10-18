@@ -109,7 +109,7 @@ From the data, querying out data where coupon == Bar and putting in new data fra
 ## Problem 2. What proportion of bar coupons were accepted?
 <Ans> 40.99% of bar coupons were accepted
 Solution:
-# To find this proportions following steps have been taken
+To find this proportions following steps have been taken
 
    1. Find the total Bar Coupon Count
    2. Find the count of Bar Coupons that were accepted
