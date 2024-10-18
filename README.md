@@ -120,6 +120,13 @@ Screenshot shows all the 3 steps
 
 ## Problem 3. Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.
 Solution:
-1. Find count of passangers who visited bar 3 or fewer times i.e. between 1 to 3 times
+1. Find count of passangers who visited bar 3 or fewer times i.e. between 1 to 3 times = **257**
    ![Count of passangers who visited bar less then 3 times](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic1.png)
+2. Calculate the Acceptance Rate for LessThan 3 Visits by dividing with the BarCouponCount which comes = **12.78%**
+![Acceptance Rate for those who visited bar less than a month](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic2.png)
+3. Find count of passangers who visited bar more than times  = **153**
+![Count of drivers who visited bar more than 3 times](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic3.png)
+4.  Calculate the Acceptance Rate for more Than 3 Visits by dividing with the BarCouponCount which comes = **7.61%**
+![Acceptance Rate for more Than 3 Visits by dividing with the BarCouponCount](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic4.png)
+
 
