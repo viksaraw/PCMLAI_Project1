@@ -129,4 +129,4 @@ Solution:
 4.  Calculate the Acceptance Rate for more Than 3 Visits by dividing with the BarCouponCount which comes = **7.61%**
 ![Acceptance Rate for more Than 3 Visits by dividing with the BarCouponCount](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic4.png)
 
-** Inference : Acceptance rate for less than 3 visit is 12.79% where as Acceptance rate for more than 3 visits = 7.62%. This clearly states that drivers who visit less than 3 times a month are more likely to accept the coupons for bar**
+### Inference : Acceptance rate for less than 3 visit is 12.79% where as Acceptance rate for more than 3 visits = 7.62%. This clearly states that drivers who visit less than 3 times a month are more likely to accept the coupons for bar
