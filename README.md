@@ -90,4 +90,6 @@ hue = 'coupon'
 
  Histogram for coupon also done by using histplot method from seaborn
 ![Screenshot for histogram of coupons](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic6.png)
+![Screenshot for histplot data](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic7.png)
+![Screenshot for histplot](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob5-Pic8.png)
 
