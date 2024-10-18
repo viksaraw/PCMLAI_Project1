@@ -118,4 +118,8 @@ To find this proportions following steps have been taken
 Screenshot shows all the 3 steps
 ![screenshot to show the proportion of bar coupons accepted](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob8-Pic1.png)
 
+## Problem 3. Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.
+Solution:
+1. Find count of passangers who visited bar 3 or fewer times i.e. between 1 to 3 times
+   ![Count of passangers who visited bar less then 3 times](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob9-Pic1.png)
 
