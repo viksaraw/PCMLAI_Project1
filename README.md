@@ -98,7 +98,7 @@ Solution : I have used the seaborn histplot method to plot temperatures
 ![screenshot for histogram of temperatures](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob6-Pic1.png)
 
 
-*Investigating the Bar Coupons*
+# Investigating the Bar Coupons
 
-Now, we will lead you through an exploration of just the bar related coupons.  
-** Problem 1. Create a new `DataFrame` that contains just the bar coupons.
+<br>Now, we will lead you through an exploration of just the bar related coupons.  
+## Problem 1. Create a new `DataFrame` that contains just the bar coupons.
