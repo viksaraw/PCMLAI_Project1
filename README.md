@@ -142,5 +142,17 @@ Solution:
 
 
 ## Problem 5. Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
-Solution
+Solution:
+
+1. Find the count of drivers who meet all 3 conditions and accepted coupon
+2. Find the count of drivers who meet all 3 conditions
+3. Divide 1 with 2 to find the acceptance rate
+![Accepted by Customers](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob5-Pic1.png)
+4. Find the count of other drivers accepted coupon
+5. Find the count of other drivers
+6. Divide 4 with 5 to find the acceptance rate
+![Accepted by other drivers](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob5-Pic2.png)
+   
+### Conclusion: Comparing these - Clearly the acceptance is higher for drivers who meet the 3 conditions
+![Compare the acceptance rates](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob5-Pic3.png)
 
