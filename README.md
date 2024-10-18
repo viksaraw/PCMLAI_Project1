@@ -136,5 +136,12 @@ Solution:
 1. Find the count of drivers who go to a bar more than once a month and are over the age of 25
    ![Find the count of drivers who go to a bar more than once a month and are over the age of 25
 ](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob10-Pic1.png)
+2. Calculate the acceptance rate by dividing with the BarCouponCount
+   ![Acceptance rate ](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob10-Pic2.png)
+3. Find count of other drivers
+   ![Other Drivers count](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob10-Pic3.png)
+4. Calculate the acceptance rate of other drivers by dividing with the BarCouponCount
+   ![Acceptance Rate for Other drivers](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob10-Pic4.png)
+
 
 
