@@ -123,23 +123,23 @@ Solution:
 6. Divide 4 with 5 to find the acceptance rate who visited bar more than 3 times
 ![Accepted rate for more than 3 times visitors](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob3-Pic2.png)
 
-### Comparing these - Clearly the acceptance is higher for drivers who visit bar more than 3 times
+### Conclusion: Comparing these - Clearly the acceptance is higher for drivers who visit bar more than 3 times
 ![Compare the acceptance rates](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob3-Pic3.png)
   
 ## Problem  4. Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others.  Is there a difference?
 Solution:
-1. Find the count of drivers who go to a bar more than once a month and are over the age of 25
-   ![Find the count of drivers who go to a bar more than once a month and are over the age of 25
-](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob10-Pic1.png)
-2. Calculate the acceptance rate by dividing with the BarCouponCount
-   ![Acceptance rate ](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob10-Pic2.png)
-3. Find count of other drivers
-   ![Other Drivers count](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob10-Pic3.png)
-4. Calculate the acceptance rate of other drivers by dividing with the BarCouponCount
-   ![Acceptance Rate for Other drivers](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob10-Pic4.png)
+1. Find the count of drivers who go to a bar more than once a month and are over the age of 25 and accepted coupon
+2. Find the count of drivers who go to a bar more than once a month and are over the age of 25
+3. Divide 1 with 2 to find the acceptance rate
+![Accepted by Customers](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob4-Pic1.png)
+4. Find the count of other drivers accepted coupon
+5. Find the count of other drivers
+6. Divide 4 with 5 to find the acceptance rate
+![Accepted by other drivers](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob4-Pic2.png)
+   
+### Conclusion: Comparing these - Clearly the acceptance is higher for drivers who go to a bar more than once a month and are over the age of 25
+![Compare the acceptance rates](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob4-Pic3.png)
 
-
-### Conclusion- Percentage of drivers who goes to bar more than once a month and are over the age of 25 is 14.5% where as other driver percentage is 85.5%. 
 
 ## Problem 5. Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
 Solution
