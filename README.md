@@ -105,3 +105,17 @@ Solution : I have used the seaborn histplot method to plot temperatures
 Solution:
 From the data, querying out data where coupon == Bar and putting in new data frame named DataBar
 ![screenshot contains code to create a new data frame that contains just the bar coupons](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob7-Pic1.png)
+
+## Problem 2. What proportion of bar coupons were accepted?
+<Ans> 40.99% of bar coupons were accepted
+Solution:
+# To find this proportions following steps have been taken
+
+   1. Find the total Bar Coupon Count
+   2. Find the count of Bar Coupons that were accepted
+   3. Find the proportion by dividing 1 with 2
+
+Screenshot shows all the 3 steps
+![screenshot to show the proportion of bar coupons accepted](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/Prob8-Pic1.png)
+
+
