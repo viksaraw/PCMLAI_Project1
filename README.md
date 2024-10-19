@@ -157,11 +157,11 @@ Solution:
 ![Compare the acceptance rates](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob5-Pic3.png)
 
 
-## Problem 6 Compare the acceptance rates between those drivers who:
+## Problem 6 Compare the acceptance rates between those drivers who:<br>
 
-go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
-go to bars more than once a month and are under the age of 30 OR
-go to cheap restaurants more than 4 times a month and income is less than 50K.
+- go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
+- go to bars more than once a month and are under the age of 30 OR
+- go to cheap restaurants more than 4 times a month and income is less than 50K.
 
 Solution:
 Below steps have been taken to find the solution
