@@ -189,6 +189,6 @@ To do this analysis, I have taken these steps
 
 
 Further Analysis to find the visitor of coffe house based upon occupation
-Again I am doing a histogram and plotted on 'Coffee' where x='occupation'
+Again I am doing a histogram and plotted on 'Coffee' where x='occupation'<br>
 ![Histogram code](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic5.png)
 ![Histogram display](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic6.png)
