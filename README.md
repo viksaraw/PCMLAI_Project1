@@ -192,3 +192,10 @@ Further Analysis to find the visitor of coffe house based upon occupation
 Again I am doing a histogram and plotted on 'Coffee' where x='occupation'<br>
 ![Histogram code](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic5.png)
 ![Histogram display](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic6.png)
+
+### Analysis 3 - Unemployed, Students and Computer and Mathematical are the three occupation who visited COffee house the most
+
+## Conclusion of Independent analysis
+1.Drivers who visit high end restaurant more than 3 times a month are more probable to accept coupons of high end restaurant
+2.Drivers who are alone or with friends visits coffee house the most
+3.Unemployed, Students and Computer and Mathematical are the three occupation who visited COffee house the most
