@@ -176,4 +176,4 @@ Using the bar coupon example as motivation, you are to explore one of the other 
   - g. Find the acceptance rate
   - ![visits more than 3 times a month](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic2.png)
 
-
+### Analysis - Drivers who visit high end restaurant more than 3 times a month are more probable to accept coupons of high end restaurant
