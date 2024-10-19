@@ -156,6 +156,22 @@ Solution:
 ### Conclusion: Comparing these - Clearly the acceptance is higher for drivers who meet the 3 conditions
 ![Compare the acceptance rates](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob5-Pic3.png)
 
+
+## Problem 6 Compare the acceptance rates between those drivers who:
+
+go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
+go to bars more than once a month and are under the age of 30 OR
+go to cheap restaurants more than 4 times a month and income is less than 50K.
+
+Solution:
+Below steps have been taken to find the solution
+
+1. Storing values in array for easier querying later
+   ![Variable storage](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic1.png)
+3. Creating the conditions
+   ![Condition forming](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic2.png)
+
+
 **********************************************************************************************************************************
 
 
