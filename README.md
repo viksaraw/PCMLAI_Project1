@@ -171,6 +171,9 @@ Using the bar coupon example as motivation, you are to explore one of the other 
   - d. Find the acceptance rate
    ![Acceptance rate of drivers visit](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic1.png)
    
-   
+  - e. Find the count of drivers who accepted high income restaurant and they visit high end restaurant more than 3 times a month
+  - f. Find the count of drivers who were offered high income restaurant
+  - g. Find the acceptance rate
+  - ![visits more than 3 times a month](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic2.png)
 
 
