@@ -173,10 +173,10 @@ Below steps have been taken to find the solution
 3. Find the count of drivers who doesn't meet any of the 3 conditions and were offered
    ![Count ](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic3.png)
    
-5. Find the count of drivers who meet 3 conditions and accepted
+5. Find the count of drivers who meet 3 conditions and accepted<br>
    ![Count_meet_Cond](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic4.png)
-   
-7. Find the acceptance rate
+   <br>
+7. Find the acceptance rate<br>
    ![Acceptance Rate](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic5.png)
 
 **********************************************************************************************************************************
