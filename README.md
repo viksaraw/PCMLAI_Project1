@@ -176,4 +176,13 @@ Using the bar coupon example as motivation, you are to explore one of the other 
   - g. Find the acceptance rate
   - ![visits more than 3 times a month](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic2.png)
 
-### Analysis - Drivers who visit high end restaurant more than 3 times a month are more probable to accept coupons of high end restaurant
+### Analysis 1 - Drivers who visit high end restaurant more than 3 times a month are more probable to accept coupons of high end restaurant
+
+To further analyze I am plotting the kind of drivers accepting Coffee House Coupons
+To do this analysis, I have taken these steps
+-a. Select all the records where coupon == 'Coffee House' and put it in another data frame say 'coffee'
+![Coffee house data frame](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic3.png)
+-b. Then plot a histogram on 'coffee' where x= Passanger type
+![Histogram Plot](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic4.png)
+
+
