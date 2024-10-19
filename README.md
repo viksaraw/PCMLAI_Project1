@@ -184,6 +184,15 @@ Below steps have been taken to find the solution
 
 7. Find the count of drivers who doesn't meet the above condition and Accepted
 ![Count who doesn't meet the condition](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic7.png)
+
+8. Find the Acceptance Rate of drivers who doesn't meet the above condition
+![Acceptance Rate](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic8.png)
+
+9. Compare Acceptance Rates of drivers who meet this condition vs drivers who doesn't meet this condition
+![Compare Acceptnc Rate](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic9.png)
+
+### Conclusion - Clearly the Acceptance rate of drivers who meet the 3 conditions is much higher than those who don't meet these conditions
+
 **********************************************************************************************************************************
 
 
