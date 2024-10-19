@@ -156,3 +156,21 @@ Solution:
 ### Conclusion: Comparing these - Clearly the acceptance is higher for drivers who meet the 3 conditions
 ![Compare the acceptance rates](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob5-Pic3.png)
 
+**********************************************************************************************************************************
+
+
+## Independent Investigation
+
+Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons. 
+1. Finding the Acceptance  Rate of drivers who  visits high income restaurant more than 3 times a month vs others
+
+   To acheive this - following steps have been taken
+   a. Make arrays of High Income and low Income groups for ease of querying
+   b. Find the count of drivers who accepted high income restaurant
+   c. Find the count of drivers who were offered high income restaurant
+   d. Find the acceptance rate
+   ![Acceptance rate of drivers visit](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic1.png)
+   
+   
+
+
