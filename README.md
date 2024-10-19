@@ -185,4 +185,4 @@ To do this analysis, I have taken these steps
 -b. Then plot a histogram on 'coffee' where x= Passanger type
 ![Histogram Plot](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic4.png)
 
-
+### Analysis 2 - Drivers who are alone or with friends visits coffee house the most
