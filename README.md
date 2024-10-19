@@ -168,9 +168,14 @@ Below steps have been taken to find the solution
 
 1. Storing values in array for easier querying later
    ![Variable storage](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic1.png)
-3. Creating the conditions
+2. Creating the conditions
    ![Condition forming](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic2.png)
-
+3. Find the count of drivers who doesn't meet any of the 3 conditions and were offered
+   ![Count ](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic3.png)
+4. Find the count of drivers who meet 3 conditions and accepted
+   ![Count_meet_Cond](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic4.png)
+5. Find the acceptance rate
+   ![Acceptance Rate](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/CP-Prob6-Pic5.png)
 
 **********************************************************************************************************************************
 
