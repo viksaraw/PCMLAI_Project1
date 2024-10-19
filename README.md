@@ -186,3 +186,9 @@ To do this analysis, I have taken these steps
 ![Histogram Plot](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic4.png)
 
 ### Analysis 2 - Drivers who are alone or with friends visits coffee house the most
+
+
+Further Analysis to find the visitor of coffe house based upon occupation
+Again I am doing a histogram and plotted on 'Coffee' where x='occupation'
+![Histogram code](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic5.png)
+![Histogram display](https://github.com/viksaraw/PCMLAI_Project1-Pictures/blob/main/IP-Pic6.png)
