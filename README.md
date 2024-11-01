@@ -7,6 +7,27 @@
 #### 2.project.ipynb
 <br>
 
+###Summary of Findings
+
+1. Coffee House was the most used coupon
+2. Drivers who visited bar more than 3 times a month had higher Acceptance Rate than others
+3. Drivers who go to a bar more than once a month and are over the age of 25 are almost twice likely to accept the bar coupon than others
+4. Drivers who met the below conditions, have more than twice chance of accepting the Bar Coupon than others
+   - go to bars more than once a month
+   - and had passengers that were not a kid
+   - and had occupations other than farming, fishing, or forestry
+   
+5. Drivers who met the below three conditions have almost double the chances of accepting the offer than others
+-	go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
+-	and go to bars more than once a month and are under the age of 30 OR
+-	and go to cheap restaurants more than 4 times a month and income is less than 50K.
+
+6. Acceptance rato of Drivers who accepted high end restaurant and were not alone is higer than Acceptance rate of Drivers who accepted high end restaurant and were alone"
+
+7. Drivers who traveled alone or with friends visited coffee house the most
+8. Unemployed and students were the highest visitors at coffee house
+
+
 ## Problem 1. Read in the coupons.csv file.
 Solution : 
 1. Used the pandas **read_csv** method to read the csv file provided as part of the Project and storing the data in the '**data**' object of type data frame.
