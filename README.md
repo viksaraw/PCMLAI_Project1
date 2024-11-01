@@ -7,7 +7,7 @@
 #### 2.project.ipynb
 <br>
 
-###Summary of Findings
+### Summary of Findings
 
 1. Coffee House was the most used coupon
 2. Drivers who visited bar more than 3 times a month had higher Acceptance Rate than others
@@ -18,9 +18,9 @@
    - and had occupations other than farming, fishing, or forestry
    
 5. Drivers who met the below three conditions have almost double the chances of accepting the offer than others
--	go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
--	and go to bars more than once a month and are under the age of 30 OR
--	and go to cheap restaurants more than 4 times a month and income is less than 50K.
+   -	go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
+   -	and go to bars more than once a month and are under the age of 30 OR
+   -	and go to cheap restaurants more than 4 times a month and income is less than 50K.
 
 6. Acceptance rato of Drivers who accepted high end restaurant and were not alone is higer than Acceptance rate of Drivers who accepted high end restaurant and were alone"
 
