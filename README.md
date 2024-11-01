@@ -4,7 +4,8 @@
 
 ### There are two files in this repository
 #### 1.Readme.md
-#### 2.project.ipynb
+#### 2.Module5Assignment.ipynb 
+#### The jupyter Notebook file can be found at :   https://github.com/viksaraw/PCMLAI_Project1/blob/main/Module5Assignment.ipynb 
 <br>
 
 ### Summary of Findings
